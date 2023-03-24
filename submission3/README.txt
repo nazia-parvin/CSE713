@@ -10,7 +10,7 @@ https://lucid.app/lucidchart/b2dda386-fb65-40cf-a1e7-2e2a4665c07e/edit?invitatio
 Name, Author, Edition, year, and publisher of the Book:
 Understanding Machine Learning
 Shai Shalev-Shwartz, Shai Ben-David
-3rd edition
+1st edition
 2014
 Cambridge University Press
 
