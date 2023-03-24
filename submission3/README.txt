@@ -17,7 +17,7 @@ Link to the book:
 https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf
 
 Link to the book chapter:
-
+Chapter 18, Chapter Name: Decision Trees
 Group Number:
 12
 
