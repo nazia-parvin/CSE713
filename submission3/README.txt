@@ -5,17 +5,17 @@ Two public links to the Concept Map (anyone on the internet can view without log
 PDF: 
 https://github.com/annajiat/CSE123/blob/main/submission3/Concept%20Map.pdf
 Native/original format: 
-https://draw.io/...
+https://lucid.app/lucidchart/b2dda386-fb65-40cf-a1e7-2e2a4665c07e/edit?invitationId=inv_fadbe72a-9252-40ec-8c1f-15728f5fa657&page=0_0#
 
 Name, Author, Edition, year, and publisher of the Book:
-Speech and Language Processing
-Jurafsky
+Understanding Machine Learning
+Shai Shalev-Shwartz, Shai Ben-David
 3rd edition
 2014
-Pearson
+Cambridge University Press
 
 Link to the book:
-https://amazon.com/...
+https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf
 
 Link to the book chapter:
 https://books.google.com/books...
