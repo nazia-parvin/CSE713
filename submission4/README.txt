@@ -7,7 +7,7 @@ https://youtu.be/hCUlFDdc6u0
 Conference submitted paper / paper submission / login Link:
 
 Paper title:
-Experimental Analysis of Light Pollution Impacts on Glow-worm Using ML and XAI 
+Experimental Analysis of Light Pollution Impacts on Glow-worm and Moths Using ML and XAI 
 
 Paper presentation (anyone can view without login):
 
