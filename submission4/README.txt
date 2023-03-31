@@ -7,7 +7,7 @@ http://youtube....
 Conference submitted paper / paper submission / login Link:
 
 Paper title:
-Partially automated exam answer script checking for Intro to Marketing
+Experimental Analysis of Light Pollution Impacts on Glow-worm Using ML and XAI 
 
 Paper presentation (anyone can view without login):
 
