@@ -1,12 +1,30 @@
+Overleaf link with edit access to ST, RA and my gmail.
+https://www.overleaf.com/7345145253hjqmcqrcxprf
+
+
+Unlisted YouTube video:
+https://youtu.be/C1_xQ3A8IyI
+
+
+Conference submitted paper / paper submission / login Link:
 
 Paper title:
-Experimental Analysis of Light Pollution Impacts on Glow-worm Using ML and XAI 
+Experimental Analysis of Light Pollution Impacts on Glow-worm and Moths Using ML and XAI
 
-Link to unlisted YouTube video:
-https://youtu.be/V7cUhXDZxCM
+Paper presentation (anyone can view without login):
 
-Overleaf link:
-https://www.overleaf.com/7345145253hjqmcqrcxprf
+
+Paper submission date (to workshop/conference):
+
+
+Paper submission ID: (received) from conference/workshop
+
+
+Conference Name:
+
+
+Conference URL:
+
 
 Group Number:
 12
